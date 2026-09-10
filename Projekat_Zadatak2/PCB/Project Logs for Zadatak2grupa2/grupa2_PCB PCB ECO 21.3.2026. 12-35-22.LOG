@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Echo1 Pin=J1-29
+Removed Pin From Net: NetName=Trig1 Pin=J1-30
+Added Pin To Net: NetName=Trig1 Pin=J1-29
+Added Pin To Net: NetName=Echo1 Pin=J1-30
+Added Room: Name=Grupa2_sema

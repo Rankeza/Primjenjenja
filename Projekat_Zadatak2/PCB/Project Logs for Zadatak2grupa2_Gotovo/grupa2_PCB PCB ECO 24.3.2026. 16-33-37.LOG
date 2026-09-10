@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=9V Pin=S1-1
+Removed Pin From Net: NetName=NetD9_1 Pin=S1-2
+Change Component Description : Designator=J1 Old Description=Digital Signal Processors, DSP, DSC General Purpose New Description=Digital Signal Processors, DSP, DSC General Purpose | Microchip Technology Inc. DSPIC30F4013-30I/P
+Added Component: Designator=S1(SPST-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=9V Pin=S1-1
+Added Pin To Net: NetName=NetD9_1 Pin=S1-2
+Added Room: Name=Grupa2_sema

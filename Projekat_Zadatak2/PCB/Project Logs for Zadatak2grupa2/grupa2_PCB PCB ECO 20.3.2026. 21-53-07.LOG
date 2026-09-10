@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=IN2_Motor1 Pin=J1-37
+Removed Pin From Net: NetName=IN1_Motor1 Pin=J1-38
+Added Pin To Net: NetName=IN1_Motor1 Pin=J1-37
+Added Pin To Net: NetName=IN2_Motor1 Pin=J1-38
+Added Room: Name=Grupa2_sema

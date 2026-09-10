@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=IN4_Motor2 Pin=J1-35
+Removed Pin From Net: NetName=IN3_Motor2 Pin=J1-36
+Removed Pin From Net: NetName=IN1_Motor1 Pin=J1-37
+Removed Pin From Net: NetName=IN2_Motor1 Pin=J1-38
+Change Component Description : Designator=J1 Old Description=Digital Signal Processors, DSP, DSC General Purpose New Description=Digital Signal Processors, DSP, DSC General Purpose | Microchip Technology Inc. DSPIC30F4013-30I/P
+Added Pin To Net: NetName=IN3_Motor2 Pin=J1-35
+Added Pin To Net: NetName=IN4_Motor2 Pin=J1-36
+Added Pin To Net: NetName=IN2_Motor1 Pin=J1-37
+Added Pin To Net: NetName=IN1_Motor1 Pin=J1-38
+Added Member To Class: ClassName=Grupa2_sema Member=Component J1 DSPIC30F4013
+Added Member To Class: ClassName=Grupa2_sema Member=Component U1 L298N
+Added Room: Name=Grupa2_sema

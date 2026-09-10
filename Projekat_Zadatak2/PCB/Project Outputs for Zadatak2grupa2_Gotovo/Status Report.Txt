@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Zadatak2grupa2_Gotovo.PrjPcb]
+   Generated File[grupa2_PCB.GBL]
+   Generated File[grupa2_PCB.RUL]
+   Generated File[grupa2_PCB.EXTREP]
+   Generated File[grupa2_PCB.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:42:34 On 24.3.2026.

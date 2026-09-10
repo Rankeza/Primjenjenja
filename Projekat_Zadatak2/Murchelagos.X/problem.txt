@@ -1,0 +1,8 @@
+1 dioda ne valja kod p2, desna dole
+
+1 kondezator kod 9V se izbacuje
+
+1 kondezator kod 5V se izbacuje
+
+
+
